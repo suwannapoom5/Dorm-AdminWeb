@@ -1,0 +1,34 @@
+/* custom.css */
+
+/* Style for the "app" container */
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    min-height: 100vh;
+    margin-top: 5%;
+    /* Set the minimum height to 100% of the viewport height */
+}
+
+/* Style for the "main-content" container */
+.main-content {
+    width: 100%;
+    max-width: 1200px; /* Increase the max-width for wider content */
+    margin: 0 auto; /* Center the content horizontally */
+}
+
+/* Style for news cards */
+.card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 100%; /* Make the cards fill the available height */
+}
+
+/* Style for the "add-button" container */
+.add-button {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}

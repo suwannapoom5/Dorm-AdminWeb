@@ -1,0 +1,26 @@
+/* Media Queries for different screen sizes */
+/* Small screens */
+@media screen and (max-width: 480px) {
+    /* Your styles for small screens */
+  }
+  
+  /* Medium screens */
+  @media screen and (max-width: 768px) {
+    /* Your styles for medium screens */
+  }
+  
+  /* Large screens */
+  @media screen and (max-width: 1024px) {
+    /* Your styles for large screens */
+  }
+  
+  /* Extra large screens */
+  @media screen and (max-width: 1200px) {
+    /* Your styles for extra large screens */
+  }
+  
+  /* XXL screens */
+  @media screen and (max-width: 1400px) {
+    /* Your styles for XXL screens */
+  }
+  
