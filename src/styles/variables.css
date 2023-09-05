@@ -1,8 +1,8 @@
 /* BG */
 :root {
-    --main-bg: #2a3447;
-    --soft-bg: #384256;
-    --dark-bg: #222b3c;
+    --main-bg: #ffffff;
+    --soft-bg: #ffffff;
+    --dark-bg: #ffffff;
   }
   
   /* TEXT */
@@ -12,7 +12,6 @@
     --dark-color: #2a3447;
   }
   
-  /* Example usage */
   body {
     background-color: var(--main-bg);
     color: var(--main-color);

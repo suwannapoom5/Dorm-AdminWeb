@@ -8,6 +8,7 @@
   align-items: center;
   justify-content: space-between;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  position: absolute;
 }
 
 .navbar .logo {

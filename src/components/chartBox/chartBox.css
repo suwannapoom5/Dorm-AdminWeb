@@ -1,6 +1,3 @@
-/* Import statements are already in CSS format */
-/* No need to change the @import directive */
-
 .chartBox {
     display: flex;
     height: 100%;

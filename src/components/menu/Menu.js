@@ -86,7 +86,7 @@ const Menu = () => {
                 component={Link}
                 to={item.path}
                 key={item.text}
-                selected={selectedMenuIndex === index} // Highlight selected menu item
+                selected={selectedMenuIndex === index} 
               >
                 <ListItemIcon>{item.icon}</ListItemIcon>
                 <ListItemText primary={item.text} />

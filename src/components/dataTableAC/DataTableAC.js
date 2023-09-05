@@ -11,7 +11,6 @@ import "./dataTable.css";
 
 const DataTableAC = (props) => {
   const handleDelete = (id) => {
-    // Implement your delete logic here
   };
 
   const actionColumn = {
